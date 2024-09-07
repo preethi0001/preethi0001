@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Preethi</h1>
-<h3 align="center"> Ex - SDE 1 atLicious, Backend Development Intern at BharatPe</h3>
-<br>
+<h3 align="center"> Ex - SDE 1 at Licious, Backend Development Intern at BharatPe</h3>
+<br><br>
 
-<img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" width="250" height="300" alt="coding" />
+<img align="right"  src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" width="350" height="300" alt="coding" />
 
 
 - 💬 Exploring **BACKEND & ML**
@@ -10,6 +10,8 @@
 - 👨‍💻 Let's connect and learn!
   
 - 📫 How to reach me **preethi82003@gmail.com**
+
+ <br>
 
 
 <h3 align="left">Connect with me:</h3>
@@ -21,13 +23,13 @@
 <a href="https://auth.geeksforgeeks.org/user/preethi82003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="preethi82003" height="30" width="40" /></a>
 </p>
 
-
+<br>
 <h3 align="left">Languages and Tools:</h3>
 
 <p >
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,mysql,redis,postman,github,git,kafka" />
-    <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,sentry" />
+    <img src="https://skillicons.dev/icons?i=java,spring,mysql,redis,postman,github,git" />
+    <img src="https://skillicons.dev/icons?i=kafka,python,cpp,html,css,js,sentry" />
   </a>
 </p>
 
