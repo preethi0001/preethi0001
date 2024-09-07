@@ -1,21 +1,43 @@
-<h2> Hello World! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<h1 align="center">Hi 👋, I'm Preethi</h1>
+<h3 align="center"> Ex - SDE 1 atLicious, Backend Development Intern at BharatPe</h3>
+<br>
 
-<p align="center">
+<img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" width="250" height="300" alt="coding" />
+
+
+- 💬 Exploring **BACKEND & ML**
+  
+- 👨‍💻 Let's connect and learn!
+  
+- 📫 How to reach me **preethi82003@gmail.com**
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/preethi a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="preethi a" height="30" width="40" /></a>
+<a href="https://instagram.com/preethi_ag_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="preethi_ag_" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/preethi82003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="preethi82003" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/preethiachyutha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="preethiachyutha" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/preethi82003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="preethi82003" height="30" width="40" /></a>
+</p>
+
+
+<h3 align="left">Languages and Tools:</h3>
+
+<p >
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,mysql,redis,postman,github,git,kafka" /><br>
+    <img src="https://skillicons.dev/icons?i=java,spring,mysql,redis,postman,github,git,kafka" />
     <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,sentry" />
   </a>
 </p>
 
-<div align="center">
 
-<i>Lets Connect😄:</i><br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=preethi0001&show_icons=true&locale=en&layout=compact" alt="preethi0001" /></p>
 
-<a href="https://www.linkedin.com/in/preethi-a-b163a31b9" target="_blank"><img src="https://img.shields.io/badge/Preethi A-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.linkedin.com/in/preethi-a-b163a31b9" target="_blank"><img src="https://img.shields.io/badge/-preethi82003@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:preethi82003@gmail.com" alt="Gmail"></a>
-<a href="https://twitter.com/GuruAchyutha" target="_blank"><img src="https://img.shields.io/badge/GuruAchyutha-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a><br>
-<a href="https://leetcode.com/u/preethiachyutha/" target="_blank"><img src="https://img.shields.io/badge/preethiachyutha-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="Leetcode"></a>
-<a href="https://www.hackerrank.com/profile/preethi82003"><img src="https://img.shields.io/badge/-preethi82003-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Hackerank"></a>
-<a href="https://www.geeksforgeeks.org/user/preethi82003/"><img src="https://img.shields.io/badge/preethi82003-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" alt="GeeksForGeeks"></a>
 
-</div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=preethi0001&show_icons=true&locale=en" alt="preethi0001" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=preethi0001&label=Profile%20views&color=0e75b6&style=flat" alt="preethi0001" /> </p>
+
+
+
