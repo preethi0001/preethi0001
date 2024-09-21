@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Preethi</h1>
-<h3 align="center"> Ex - SDE 1 at Licious, Backend Development Intern at BharatPe</h3>
-<br><br>
+
 
 <img align="right"  src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" width="350" height="300" alt="coding" />
 
